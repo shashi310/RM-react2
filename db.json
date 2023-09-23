@@ -1,0 +1,22 @@
+{
+  "products":[
+      {
+          "id":1,
+          "ProductName":"Jeans",
+          "image":"https://media.gettyimages.com/id/186870715/photo/blue-jeans.jpg?s=612x612&w=gi&k=20&c=QmlgPNArpUCfP43m4iGiGVsBGyAjEiMrRO4sP2Hh1Dw=",
+          "ProductDescription":"fati purani jeans",
+          "Gender":"Male",
+          "Category":"Jeans",
+          "Price":599
+      },
+      {
+        "id":2,
+        "ProductName":"Saree",
+        "image":"https://media.gettyimages.com/id/186870715/photo/blue-jeans.jpg?s=612x612&w=gi&k=20&c=QmlgPNArpUCfP43m4iGiGVsBGyAjEiMrRO4sP2Hh1Dw=",
+        "ProductDescription":"Nayi Saree",
+        "Gender":"Female",
+        "Category":"Saree",
+        "Price":1199
+    }
+  ]
+}
